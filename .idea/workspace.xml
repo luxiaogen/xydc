@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f9cda85-9fc1-4725-b88a-180e8d0db86d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="98a300f9-8eeb-4a0a-b4d4-6fe8b4d0d7b3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/opt/mavenRepo" />
+        <option name="mavenHome" value="/opt/apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.8.6/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2OuN4m2BzpSrLpADwuGfcePQGjq" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/luxiaogen/Downloads/xydc/src/main/resources/backend/images/login&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;85ad2ac0552bb1dfbe621e6a6fab79f4&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/backend/images/login" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="XydcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="xydc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lys.xydc.XydcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f9cda85-9fc1-4725-b88a-180e8d0db86d" name="Changes" comment="" />
+      <created>1682406317636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682406317636</updated>
+      <workItem from="1682406318647" duration="1487000" />
+      <workItem from="1682434528550" duration="6303000" />
+      <workItem from="1682479416222" duration="830000" />
+      <workItem from="1682517796198" duration="1954000" />
+      <workItem from="1682828536176" duration="11746000" />
+      <workItem from="1682996667704" duration="560000" />
+      <workItem from="1683460201297" duration="1349000" />
+      <workItem from="1683508551166" duration="3108000" />
+      <workItem from="1693192251019" duration="41000" />
+      <workItem from="1693751510697" duration="3000" />
+      <workItem from="1694265827008" duration="125000" />
+      <workItem from="1695726274519" duration="157000" />
+      <workItem from="1695888148268" duration="120000" />
+      <workItem from="1697702261177" duration="26000" />
+      <workItem from="1712586988532" duration="284000" />
+      <workItem from="1712587579914" duration="434000" />
+      <workItem from="1712836135068" duration="1000" />
+      <workItem from="1712836829577" duration="128000" />
+      <workItem from="1713074086589" duration="23000" />
+      <workItem from="1713139475172" duration="9000" />
+      <workItem from="1713141105400" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

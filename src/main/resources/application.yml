@@ -1,0 +1,34 @@
+server:
+  port: 80
+spring:
+  application:
+    # 项目应用名,可选
+    name: xydc
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/xydc?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowPublicKeyRetrieval=true
+      username: root
+      password: 76262239Lys
+  redis:
+    host: localhost
+    port: 6379
+    database: 0
+  cache:
+    redis:
+      time-to-live: 1800000 # 设置缓存有效期
+#    password:
+mybatis-plus:
+  configuration:
+    # 表名 address_book ---> AddressBook
+    # 字段 user_name ---> userName
+    # 在映射实体或者属性时，将数据库中表名和字段名中的下划线去掉，按照驼峰命名法映射
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+  global-config:
+    db-config:
+      id-type: ASSIGN_ID
+
+xydc:
+  # 设置文件上传路径
+  path: /Users/luxiaogen/workspace/code/Java/upload/
